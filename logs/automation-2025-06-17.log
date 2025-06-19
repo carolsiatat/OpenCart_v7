@@ -1,0 +1,22 @@
+16:45:20.617 [main] INFO  testCases.TC_AccountRegistration_001 - ***Account registration successful***
+16:45:28.835 [main] INFO  testCases.TC_LoginTest_002 - *****Starting Login Test*****
+16:45:29.433 [main] INFO  testCases.TC_LoginTest_002 - ******Clicked My Account******
+16:45:30.161 [main] INFO  testCases.TC_LoginTest_002 - ******Clicked Login******
+16:45:30.166 [main] INFO  testCases.TC_LoginTest_002 - ******providing customer email******
+16:45:32.403 [main] INFO  testCases.TC_LoginTest_002 - ******Finished login test******
+19:29:37.382 [main] INFO  testCases.TC_AccountRegistration_001 - ******Starting test case******
+19:29:37.715 [main] INFO  testCases.TC_AccountRegistration_001 - ******Clicked My Account******
+19:29:38.772 [main] INFO  testCases.TC_AccountRegistration_001 - ******Clicked Register******
+19:29:38.775 [main] INFO  testCases.TC_AccountRegistration_001 - ******providing customer details******
+19:29:41.523 [main] INFO  testCases.TC_AccountRegistration_001 - ******validating expected message******
+19:29:41.616 [main] INFO  testCases.TC_AccountRegistration_001 - ***Account registration successful***
+19:29:50.588 [main] INFO  testCases.TC_LoginTest_002 - *****Starting Login Test*****
+19:29:50.886 [main] INFO  testCases.TC_LoginTest_002 - ******Clicked My Account******
+19:29:51.608 [main] INFO  testCases.TC_LoginTest_002 - ******Clicked Login******
+19:29:51.612 [main] INFO  testCases.TC_LoginTest_002 - ******providing customer email******
+19:29:53.842 [main] INFO  testCases.TC_LoginTest_002 - ******Finished login test******
+19:31:41.361 [main] INFO  testCases.TC_AccountRegistration_001 - ******Starting test case******
+19:31:41.660 [main] INFO  testCases.TC_AccountRegistration_001 - ******Clicked My Account******
+19:31:42.735 [main] INFO  testCases.TC_AccountRegistration_001 - ******Clicked Register******
+19:31:42.737 [main] INFO  testCases.TC_AccountRegistration_001 - ******providing customer details******
+19:31:45.456 [main] INFO  testCases.TC_AccountRegistration_001 - ******validating expected message******

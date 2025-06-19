@@ -1,0 +1,6 @@
+12:22:09.308 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ***Account registration successful***
+12:22:18.721 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - *****Starting Login Test*****
+12:22:18.930 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked My Account******
+12:22:19.561 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked Login******
+12:22:19.567 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******providing customer email******
+12:22:21.611 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Finished login test******

@@ -1,0 +1,20 @@
+11:42:18.013 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked My Account******
+11:42:18.692 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked Login******
+11:42:18.694 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******providing customer email******
+11:42:20.526 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Finished login test******
+12:14:26.800 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Starting test case******
+12:14:27.065 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Clicked My Account******
+12:14:28.228 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Clicked Register******
+12:14:28.230 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******providing customer details******
+12:14:30.900 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******validating expected message******
+12:14:31.002 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ***Account registration successful***
+12:14:40.430 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - *****Starting Login Test*****
+12:14:40.633 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked My Account******
+12:14:41.250 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Clicked Login******
+12:14:41.252 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******providing customer email******
+12:14:43.082 [TestNG-tests-1] INFO  testCases.TC_LoginTest_002 - ******Finished login test******
+12:22:04.315 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Starting test case******
+12:22:04.664 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Clicked My Account******
+12:22:05.880 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******Clicked Register******
+12:22:05.891 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******providing customer details******
+12:22:09.192 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration_001 - ******validating expected message******
